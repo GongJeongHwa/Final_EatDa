@@ -7,6 +7,13 @@
   <li>나만의 레시피를 올릴수있는 EatDagram(blog)서비스 제공을 통한 사용자 위주의 정보사이트</li>
 </ul>
 
+## 구성원 
+<a href="https://github.com/kangactor123">강동희 👨🏻</a> | 
+<a href="https://github.com/GongJeongHwa">공정화 👩🏻</a> |
+<a href="https://github.com/noasued">남혜림🧑🏻</a> |
+<a href="https://github.com/jiyoungbb">박지영 👩🏻</a> | 
+<a href="https://github.com/YEJIXD">윤예지 👩🏻</a>
+
 ## 페이지 및 기능
 <ul>
   <li>메인페이지(index페이지) - 공정화, 강동희</li>
@@ -79,6 +86,24 @@
 <img src="https://user-images.githubusercontent.com/92419990/150314002-464da405-2a5c-436b-8eb4-1a240ae55abc.PNG" />
 
 ## 결과
+<h3>화면</h3>
+1. 메인페이지
+<img src="https://user-images.githubusercontent.com/92419990/154045664-e973f3db-e0db-435f-983a-7195ca2953c3.png" />
+
+2. 레시피페이지 - 메인
+<img src="https://user-images.githubusercontent.com/92419990/154045989-ca5ca1bd-d39c-49f7-acee-9fb08e122347.png" />
+
+3. 레시피페이지 - 검색
+<img src="https://user-images.githubusercontent.com/92419990/154046165-d2fe604c-54b3-4912-a874-3a4c499aee7d.png" />
+<img src="https://user-images.githubusercontent.com/92419990/154046283-622b8498-f8b4-44ae-8c5a-9718d4ab6635.png" />
+
+4. 레시피페이지 - 상세보기
+<img src="https://user-images.githubusercontent.com/92419990/154046362-f374834b-065a-4fc1-adbf-f6f990d48197.png" />
+<img src="https://user-images.githubusercontent.com/92419990/154046451-c7c7ba97-aede-41c9-bfa4-16ee40003455.png" />
+
+<br><br>
+
+<h3>기능</h3>
 <ul>
   <li>index페이지에 배너추가</li>
   <li>검색어순위가 -> 조회수 순위</li>
